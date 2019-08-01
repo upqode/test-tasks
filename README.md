@@ -1,32 +1,33 @@
-## Тестовое задание
+## Test task
  
-Тестовое задание делится на несколько задач — обязательные и необязательные. В обязательных задачах мы проверяем знания необходимые для прохождения на эту позицию.
-Необязательные задачи не должны занять много времени, но помогут вам показать себя с лучшей стороны. Вы можете сделать только часть из них, если что-то покажется вам интересным, или не делать их вовсе.
+The test task is divided into several tasks - mandatory and optional. 
+In the required tasks, we test the knowledge necessary for getting this position.
+Optional tasks should not take much time but will help you to show your best. 
 
-Условий несколько:
-- Используйте JS ES6;
+There are several conditions:
+- Use JS ES6;
 - React;
 - Redux;
-- Сделать, чтобы json с билетами асинхронно подтягивался с локального сервера при инициализации;
-- Работоспособность в двух последних версиях десктопных браузеров.
-- Можно использовать любую библиотеку готовых компонентов
+- JSON with tickets pull up asynchronously from the local server during initialization;
+- erformance in the last two versions of desktop browsers(cross-browsers);
+- You can use any library of ready-made components.
 
 ![](search_preview.png?raw=true "")
 
-## Задачи
-### Рендер билетов (#task1)
-Используйте React для того чтобы отрендерить билеты с данными сортированные по цене из файла [tickets.json](./tickets.json).
+## Tasks
+### Tickets Render (#task1)
+Use React to render tickets with data sorted by price from the file  [tickets.json](./tickets.json).
 
-### Фильтрация билетов (#task2)
-Фильтрация билетов в выдаче по количеству пересадок.
+### Filtering tickets (#task2)
+Filtering tickets in the issuance by the number of transfers.
 
-### Переключение валюты (#task3)
-Логику переключения валюты. Можете использовать API https://exchangeratesapi.io/
+### Currency switching (#task3)
+The logic of currency switching. You can use the API https://exchangeratesapi.io/ or other.
 
-### Верстка билета, фильтра, переключения валют (#task4)
-Исходники есть в [.sketch](./search.sketch) и [.png](./search.png). Если у вас нет нужных программ, то воспользуйтесь онлайн аналогами.
+### Markup of a ticket, filter, currency switching (#task4)
+Sources are in [.sketch](./search.sketch) и [.png](./search.png). If you do not have the necessary programs, then use the online counterparts.
 
-### Необязательная задача
-* Респонсивность до 320px на ваш выбор (#task5);
+### Optional Task
+* Responsiveness up to 320px of your choice (# task5);
 
-Удачи, если будут какие-то вопросы, то пишите, добавим уточнения в репу.
+Good luck! If you have any questions, feel free to contact us back.
