@@ -12,8 +12,6 @@ Selective sections are banner, services, team, contacts. You must select from th
 - 100% adaptability (min-width 320px).
 - Pixel Perfect (5px variation allowed).
 
-![](demo.jpg?raw=true "")
-
 ## Header (required):
 - The menu must be fixed at the top of the window. 
 - By clicking on the nav item, the page should scroll to the appropriate block on the page, and the item will become active.
@@ -32,18 +30,18 @@ Selective sections are banner, services, team, contacts. You must select from th
 - [The point](point.png) must move along the path when page scrolling. 
 - For animations you can use some library. I did it with help TweenMax:)
 - On smaller devices(< 1200px) you can hide animations.
-- [Example](example-services.mov).
+- [Video example](example-services.mov).
 
 ## Team (selective):
 - It must be slider-carousel.
 - You can use some library.
 - When switching between slides, content, images, pagination must change.
-- [Example](example-team.mov).
+- [Video example](example-team.mov).
 
 ## Contacts (selective):
 - You must use Google Maps API;
 - When user click on address the corresponding marker on the map becomes active and information change. 
-- [Example](example-contacts.mov).
+- [Video example](example-contacts.mov).
 
 ## Footer (required): 
 - By clicking on the nav item, the page should scroll to the appropriate block on the page.
@@ -55,6 +53,13 @@ Selective sections are banner, services, team, contacts. You must select from th
 - HTML validation.
 - HTML accessibility.
 
+## Sources:
+
+[Figma](https://www.figma.com/file/DlN7hUtYx9euM6ISx0ODDT/Test-Task?node-id=0%3A1) (login to see the CSS properties of the elements) and [.jpg](task.jpg)
+
+![](demo.jpg?raw=true "")
+
+***
+
 Fix the time spent on the task.  
 Good luck! If you have any questions, feel free to contact us back.
-
