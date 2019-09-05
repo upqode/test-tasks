@@ -4,6 +4,8 @@ The test consists of required  and selective sections.
 Required sections are header and footer.
 Selective sections are banner, services, team, contacts. You must select from this list 2 sections or more.
 
+![](demo.jpg?raw=true "")
+
 ## Main:
 - Select 4 blocks to execute(header, footer and 2 others). 
 - Using build system(gulp, grunt or webpack).
@@ -56,8 +58,6 @@ Selective sections are banner, services, team, contacts. You must select from th
 ## Sources:
 
 [Figma](https://www.figma.com/file/DlN7hUtYx9euM6ISx0ODDT/Test-Task?node-id=0%3A1) (login to see the CSS properties of the elements) and [.jpg](task.jpg)
-
-![](demo.jpg?raw=true "")
 
 ***
 
