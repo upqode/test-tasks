@@ -11,7 +11,7 @@ Selective sections are banner, services, team, contacts. You must select from th
 - Using build system(gulp, grunt or webpack).
 - Using JS ES6.
 - Using some preprocessor for CSS.
-- 100% adaptability (min-width 320px).
+- 100% adaptability (min-width 360px).
 - Pixel Perfect (5px variation allowed).
 
 ## Header (required):
